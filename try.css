@@ -1,0 +1,45 @@
+.milind {
+  width: 500px;
+  height: 500px;
+  background-image:url("trophy1.png");
+  background-repeat: no-repeat;
+  animation-name: exampl;
+  animation-duration: 4s;
+}
+
+@keyframes exampl {
+  from {background-image:url("trophy1.png");
+	background-repeat: no-repeat;}
+  to {background-image:url("active.jpg");
+	background-repeat: no-repeat;}
+}
+.mamta {
+  width: 450px;
+  height: 450px;
+  background-image:url("dance2.jpg");
+  background-repeat: no-repeat;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+@keyframes example {
+  from {background-image:url("dance2.jpg");
+	background-repeat: no-repeat;}
+  to {background-image:url("dance.jpg");
+	background-repeat: no-repeat;}
+}
+.fifa {
+  width: 500px;
+  height: 500px;
+  background-image:url("fifa2.jpg");
+  background-repeat: no-repeat;
+  animation-name: examp;
+  animation-duration: 4s;
+}
+
+@keyframes examp {
+  from {background-image:url("fifa2.jpg");
+	background-repeat: no-repeat;}
+  to {background-image:url("fifa.jpg");
+	background-repeat: no-repeat;}
+}

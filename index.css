@@ -1,0 +1,91 @@
+.campus{
+  width: 350px;
+  height: 225px;
+  background-image: url("school.jpg");
+  background-repeat: no-repeat;
+  animation-name: example;
+  animation-duration: 4s;
+align-content:center;
+}
+
+@keyframes example {
+  from {background-image:url("school2.jpg");
+	background-repeat: no-repeat;}
+  to {background-imag:url("school.jpg");
+	background-repeat: no-repeat;}
+}
+.mess{
+  width: 350px;
+  height: 225px;
+  background-image: url("Mess.jpg");
+  background-repeat: no-repeat;
+  animation-name: exampl;
+  animation-duration: 4s;
+}
+
+@keyframes exampl {
+  from {background-image:url("Mess2.jpg");
+	background-repeat: no-repeat;}
+  to {background-imag:url("Mess.jpg");
+	background-repeat: no-repeat;}
+}
+.sports{
+  width: 350px;
+  height: 225px;
+  background-image: url("spo.jpg");
+  background-repeat: no-repeat;
+  animation-name: examp;
+  animation-duration: 4s;
+}
+
+@keyframes examp {
+  from {background-image:url("sports.jpg");
+	background-repeat: no-repeat;}
+  to {background-imag:url("spo.jpg");
+	background-repeat: no-repeat;}
+}
+.clas{
+  width: 350px;
+  height: 225px;
+  background-image: url("class.png");
+  background-repeat: no-repeat;
+  animation-name: exam;
+  animation-duration: 4s;
+}
+
+@keyframes exam {
+  from {background-image:url("clas.jpg");
+	background-repeat: no-repeat;}
+  to {background-imag:url("class.png");
+	background-repeat: no-repeat;}
+}
+.bus{
+  width: 350px;
+  height: 225px;
+  background-image: url("bus.jpg");
+  background-repeat: no-repeat;
+  animation-name: exa;
+  animation-duration: 4s;
+}
+
+@keyframes exa {
+  from {background-image:url("bus1.jpg");
+	background-repeat: no-repeat;}
+  to {background-imag:url("bus.jpg");
+	background-repeat: no-repeat;}
+}
+.hostel{
+  width: 350px;
+  height: 225px;
+  background-image: url("hostel.jpg");
+  background-repeat: no-repeat;
+  animation-name: ex;
+  animation-duration: 4s;
+}
+
+@keyframes ex {
+  from {background-image:url("hostel2.jpg");
+	background-repeat: no-repeat;}
+  to {background-imag:url("hostel.jpg");
+	background-repeat: no-repeat;}
+}
